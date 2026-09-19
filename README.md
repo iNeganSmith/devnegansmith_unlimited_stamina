@@ -1,3 +1,9 @@
+<!-- DEVNEGANSMITH_PREVIEW_START -->
+<p align="center">
+  <img src="assets/devnegansmith-preview.jpg" alt="DevNeganSmith FiveM Resources" width="100%">
+</p>
+<!-- DEVNEGANSMITH_PREVIEW_END -->
+
 # DevNeganSmith - Unlimited Stamina
 
 Recurso ligero y **framework independiente** para FiveM que evita que el personaje agote la stamina nativa al correr.
