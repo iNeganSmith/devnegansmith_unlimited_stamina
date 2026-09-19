@@ -1,18 +1,22 @@
 # DevNeganSmith - Unlimited Stamina
 
-Recurso ligero para FiveM creado por **DevNeganSmith** que permite correr sin agotar la stamina del personaje.
+Recurso ligero para **FiveM Qbox/QBX** que evita que el personaje agote la stamina nativa al correr.
 
-## ¿Para qué sirve?
+> Creado y mantenido por **DevNeganSmith**.
 
-- Mantiene la stamina del jugador mientras corre.
-- No aumenta la velocidad de movimiento.
-- Consume muy pocos recursos.
-- Funciona de forma independiente del framework.
+## Características
 
-## Instalación rápida
+- Mantiene disponible la stamina mientras el jugador corre.
+- No modifica la velocidad de carrera.
+- No requiere base de datos.
+- No requiere llamadas directas a `qbx_core`.
+- Reduce la frecuencia de ejecución cuando el jugador no está corriendo.
+- Diseñado para servidores **Qbox / QBX**.
 
-1. Copia `devnegansmith_unlimited_stamina` dentro de tu carpeta `resources`.
-2. Agrega en `server.cfg`:
+## Instalación
+
+1. Coloca `devnegansmith_unlimited_stamina` dentro de tus recursos.
+2. Añade en `server.cfg`:
 
 ```cfg
 ensure devnegansmith_unlimited_stamina
@@ -20,6 +24,23 @@ ensure devnegansmith_unlimited_stamina
 
 3. Reinicia el recurso o el servidor.
 
-**Autor:** DevNeganSmith  
-**Versión:** 1.0.0  
-**Compatibilidad:** FiveM / Qbox / QBX / QBCore / ESX / Standalone
+## Configuración
+
+No requiere configuración adicional.
+
+## Compatibilidad
+
+- FiveM / GTA V
+- Qbox / QBX
+
+Este recurso solo restaura la stamina nativa. No aplica multiplicadores de movimiento ni velocidad.
+
+## Documentación
+
+Consulta [`DOCUMENTACION.md`](DOCUMENTACION.md) y [`TERMS.md`](TERMS.md).
+
+## Licencia
+
+Distribuido bajo **MIT License**. Consulta [`LICENSE`](LICENSE).
+
+© 2026 **DevNeganSmith**
