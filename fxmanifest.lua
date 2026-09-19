@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'DevNeganSmith'
-description 'DevNeganSmith - Stamina ilimitada sin modificar la velocidad de carrera'
+description 'Stamina ilimitada sin modificar la velocidad. Standalone, compatible con ESX Legacy, QBCore y Qbox/QBX.'
 version '1.0.0'
 
 client_script 'client.lua'
