@@ -75,7 +75,7 @@ Si se usa un HUD que únicamente muestra la stamina, normalmente no debería exi
 - Recurso: `devnegansmith_unlimited_stamina`
 - Tipo: **Standalone / Framework Independent**
 - Frameworks compatibles: **ESX Legacy, QBCore y Qbox/QBX**
-- Versión: `1.0.1`
+- Versión: `1.0.2`
 
 ## Licencia y términos
 
